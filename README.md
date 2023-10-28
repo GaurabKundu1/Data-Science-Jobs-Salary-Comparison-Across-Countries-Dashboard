@@ -82,3 +82,7 @@ Reliable data sources such as industry reports, government databases, job portal
 ### Here is a Glimpse of the Dashboard:
 
 <img src="https://github.com/GaurabKundu1/Data-Science-Jobs-Salary-Comparison-Across-Countries-Dashboard/assets/86102231/eb277706-79ad-4d8d-9525-0cfac35ce774">
+
+### The Interactive Dashboard can be found here:
+
+[Data Science Jobs & Salary Comparison Across Countries Dashboard on Tableau Public](https://public.tableau.com/views/DataScienceJobsSalaryComparisonAcrossCountries/DataScienceJobsSalaryDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
