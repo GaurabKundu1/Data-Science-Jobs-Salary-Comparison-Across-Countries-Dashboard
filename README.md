@@ -56,3 +56,13 @@ Incorporate interactive features in Tableau dashboards to allow users to filter 
 ### 6. Insights and Recommendations
 
 Based on the analysis, draw meaningful insights and provide recommendations for employers, job seekers, and policymakers in the data science field.
+
+## Key Features
+
+- Interactive Tableau dashboard.
+- Comprehensive analysis of data science salaries.
+- Comparison of salaries across countries.
+- Visualization of salary distributions.
+- Insights into job roles, experience levels, and work modes.
+- Actionable recommendations based on data analysis.
+
