@@ -22,3 +22,4 @@ Are you curious about data science salaries around the world? Look no further! T
 - <b>Horizontal Bar:</b> Explore the top 10 Employment Residency.
 
 - <b>Actionable Insights:</b> Gain additional context about each country's data science job market, including growth trends, demand, and major industries.
+
