@@ -68,5 +68,5 @@ Based on the analysis, draw meaningful insights and provide recommendations for 
 
 ## Tools and Technologies
 
-<b>Tableau:</b> Primary tool for creating interactive visualizations and dashboards.
-<b>Microsoft Excel:</b> Used for data cleaning, preprocessing, and initial exploratory data analysis.
+- <b>Tableau:</b> Primary tool for creating interactive visualizations and dashboards.
+- <b>Microsoft Excel:</b> Used for data cleaning, preprocessing, and initial exploratory data analysis.
