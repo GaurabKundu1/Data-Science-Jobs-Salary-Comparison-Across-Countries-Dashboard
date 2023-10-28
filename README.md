@@ -79,3 +79,6 @@ Reliable data sources such as industry reports, government databases, job portal
 
 - <b>Interactive Tableau Dashboard:</b> User-friendly dashboards showcasing the analysis results and allowing for interactive exploration of data.
 
+### Here is a Glimpse of the Dashboard:
+
+<img src="https://github.com/GaurabKundu1/Data-Science-Jobs-Salary-Comparison-Across-Countries-Dashboard/assets/86102231/eb277706-79ad-4d8d-9525-0cfac35ce774">
