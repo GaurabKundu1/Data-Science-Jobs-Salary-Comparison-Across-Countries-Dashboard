@@ -66,3 +66,7 @@ Based on the analysis, draw meaningful insights and provide recommendations for 
 - Insights into job roles, experience levels, and work modes.
 - Actionable recommendations based on data analysis.
 
+## Tools and Technologies
+
+<b>Tableau:</b> Primary tool for creating interactive visualizations and dashboards.
+<b>Microsoft Excel:</b> Used for data cleaning, preprocessing, and initial exploratory data analysis.
