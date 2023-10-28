@@ -70,3 +70,12 @@ Based on the analysis, draw meaningful insights and provide recommendations for 
 
 - <b>Tableau:</b> Primary tool for creating interactive visualizations and dashboards.
 - <b>Microsoft Excel:</b> Used for data cleaning, preprocessing, and initial exploratory data analysis.
+
+## Data Sources
+
+Reliable data sources such as industry reports, government databases, job portals, and surveys are used for data collection.
+
+## Project Deliverables
+
+- <b>Interactive Tableau Dashboard:</b> User-friendly dashboards showcasing the analysis results and allowing for interactive exploration of data.
+
